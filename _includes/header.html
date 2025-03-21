@@ -1,0 +1,10 @@
+<header class="page-header">
+  <h1 class="project-name">{{ site.title }}</h1>
+  <h2 class="project-tagline">{{ site.description }}</h2>
+  
+  <nav class="main-nav">
+    {% for item in site.data.navigation %}
+      <a href="{{ site.baseurl }}{{ item.link }}" class="btn">{{ item.name }}</a>
+    {% endfor %}
+  </nav>
+</header>
