@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: SSL4PFM
 description: Self-Supervised Learning for Personalized Financial Management
 repository: neerajkumarvaid/ssl4pfm
-baseurl: /ssl4pfm
+baseurl: ""
+url: "https://deeplearningpathology.org"
