@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: NeurIPS 2025 Competition
-description: Self-supervised Learning for Pathology Foundation Models (SLC-PFM)
+title: Self-supervised Learning for Pathology Foundation Models (SLC-PFM)
+description: NeurIPS 2025 Competition
 repository: neerajkumarvaid/ssl4pfm
 baseurl: ""
 url: "https://deeplearningpathology.org"
