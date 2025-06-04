@@ -11,276 +11,105 @@ The SLC-PFM competition is organized by a diverse team of experts spanning AI, c
 
 ## Memorial Sloan Kettering Cancer Center
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/neeraj_kumar.jpg" alt="Dr. Neeraj Kumar" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Dr. Neeraj Kumar, PhD](https://neerajkumarvaid.weebly.com/)
+### Dr. Neeraj Kumar, PhD
 **Machine Learning Scientist**  
 *Department of Pathology, Warren Alpert Center for Digital and Computational Pathology*
 
 Dr. Neeraj Kumar, PhD, is a machine learning scientist in MSK's Department of Pathology and Warren Alpert Center for Digital and Computational Pathology. He specializes in developing computer vision and statistical machine learning techniques for clinically relevant problems in healthcare and medicine. Previously, he served as a Machine Learning Educator at the Alberta Machine Intelligence Institute in Canada and completed postdoctoral training at University of Illinois at Chicago (in Pathology) and University of Alberta (in Computing Science). He has organized the Multi-Organ Nuclei Segmentation Challenge at MICCAI 2018, the Multi-Organ Nuclei Segmentation and Classification Challenge at IEEE ISBI 2020, and the AAAI Symposium on Survival Prediction 2021.
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/chad_vanderbilt.jpg" alt="Dr. Chad Vanderbilt" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Dr. Chad Vanderbilt, MD](https://www.mskcc.org/cancer-care/doctors/chad-vanderbilt)
+### Dr. Chad Vanderbilt, MD
 **Assistant Professor, Molecular Diagnostics Service**  
 *Principal Investigator, Warren Alpert Center for Digital and Computational Pathology*
 
 Dr. Chad Vanderbilt, MD, is a molecular pathologist and computational researcher at Memorial Sloan Kettering Cancer Center (MSK), where he serves as Assistant Professor in the Molecular Diagnostics Service and Principal Investigator in the Warren Alpert Center for Digital and Computational Pathology. His work integrates artificial intelligence and computational methods into clinical diagnostics, with particular attention to developing tools that can be practically implemented in patient care. Chad also dedicates significant time to mentoring fellows and junior faculty, helping them gain skills in bioinformatics and AI applications within pathology.
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## Icahn School of Medicine at Mount Sinai
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/ruchika_verma.jpg" alt="Dr. Ruchika Verma" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Dr. Ruchika Verma, PhD](https://ruchika-verma.weebly.com/)
+### Dr. Ruchika Verma, PhD
 **Computational Scientist**  
 *Windreich Department of AI and Human Health*
 
 Dr. Ruchika Verma, PhD, is a Computational Scientist at the Windreich Department of AI and Human Health, Icahn School of Medicine at Mount Sinai, and the Hasso Plattner Institute of Digital Health. She develops machine learning methods for personalized oncology, focusing on tumor detection, nuclei segmentation, and treatment outcome prediction. Dr. Verma has previously organized the the Multi-Organ Nuclei Segmentation Challenge at MICCAI 2018, the Multi-Organ Nuclei Segmentation and Classification Challenge at IEEE ISBI 2020. She earned her PhD in Biomedical Engineering from Case Western Reserve University, where she received the Outstanding Graduate Career Award. Her expertise includes machine learning, medical image analysis, and computational pathology.
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/gabriele_campanella.jpg" alt="Dr. Gabriele Campanella" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Dr. Gabriele Campanella, PhD](https://www.linkedin.com/in/gabriele-campanella-728446236/)
+### Dr. Gabriele Campanella, PhD
 **Assistant Professor**
 
 Dr. Gabriele Campanella, PhD, is an Assistant Professor at Icahn School of Medicine at Mount Sinai. His research interests are in the field of computational pathology, and focuses on the development of AI-powered clinical-grade decision support systems for aiding clinicians in diagnosing and treating cancer patients. His current work include the development of novel foundation models for pathology slides and the development of computational biomarkers for treatment recommendation.
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## MD Anderson Cancer Center, University of Texas
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/jia_wu.jpg" alt="Jia Wu" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Jia Wu, PhD](https://faculty.mdanderson.org/profiles/jia_wu.html)
+### Jia Wu, PhD
 **Associate Professor**  
 *Departments of Imaging Physics and Thoracic/Head & Neck Medical Oncology*
 
 Jia Wu, PhD, is a tenured Associate Professor in the Departments of Imaging Physics and Thoracic/Head & Neck Medical Oncology (THNMO) at MD Anderson. He is a leader in multimodal machine learning, integrating imaging, pathology, clinical, and molecular data to tackle critical challenges in lung cancer. His innovative research has resulted in high-impact publications and sustained funding from NIH, CPRIT, and Break Through Cancer.
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/jianjun_zhang.jpg" alt="Jianjun Zhang" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Jianjun Zhang, MD, PhD](https://faculty.mdanderson.org/profiles/jianjun_zhang.html)
+### Jianjun Zhang, MD, PhD
 **Professor**  
 *Department of Thoracic Medical Oncology and Department of Genomic Medicine*
 
 Jianjun Zhang, MD, PhD, is a tenured Professor in the Department of Thoracic Medical Oncology and the Department of Genomic Medicine at the University of Texas MD Anderson Cancer Center. In addition, He serves as the Director of the Lung Cancer Genomics Program, the Director of the Lung Cancer Interception Program, and the Chair of MD Anderson's GEMINI Program.
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/luisa_solis.jpg" alt="Luisa M Solis Soto" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Luisa M Solis Soto, MD](https://faculty.mdanderson.org/profiles/luisa_solissoto.html)
+### Luisa M Solis Soto, MD
 **Pathologist**  
 *Department of Translational Molecular Pathology*
 
 Luisa M Solis Soto, MD, is a pathologist in the Department of Translational Molecular Pathology at MD Anderson. She is Director of the Immunohistochemistry Laboratory and Digital Pathology at TMP. Also, she is co-director of the TMP Immunoprofiling Laboratory (TMP-IL) MD Anderson Moonshot platform.
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/rukhmini_bandyopadhyay.jpg" alt="Rukhmini Bandyopadhyay" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Rukhmini Bandyopadhyay, PhD](https://www.mdanderson.org/research/departments-labs-institutes/labs/wu-laboratory/members.html)
+### Rukhmini Bandyopadhyay, PhD
 **Postdoctoral Fellow**  
 *Department of Imaging Physics*
 
 Rukhmini Bandyopadhyay, PhD, is a postdoctoral fellow in the Departments of Imaging Physics at MD Anderson. Her research interests include developing deep learning/machine learning-based novel computational framework for cancer diagnosis and prognosis using histopathological images.
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/muhammad_waqas.jpg" alt="Muhammad Waqas" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Muhammad Waqas, PhD](https://www.mdanderson.org/research/departments-labs-institutes/labs/wu-laboratory/members.html)
+### Muhammad Waqas, PhD
 **Postdoctoral Fellow**  
 *Department of Imaging Physics*
 
 Muhammad Waqas, PhD, is a postdoctoral fellow in the Departments of Imaging Physics at MD Anderson. His primary objective is to improve the theoretical foundations of MIL and provide practical solutions for complex real-world problems for cancer diagnosis and prognosis in computational pathology.
 
-</td>
-<td width="50%" valign="top">
-
-<!-- Empty cell for layout balance -->
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## Mayo Clinic
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/hamid_tizhoosh.jpg" alt="Dr. Hamid Reza Tizhoosh" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Dr. Hamid Reza Tizhoosh, PhD](https://www.mayo.edu/research/faculty/tizhoosh-hamid-r-ph-d/bio-20530617)
+### Dr. Hamid Reza Tizhoosh, PhD
 **Professor**  
 *Department of Artificial Intelligence & Informatics*
 
 Dr. Hamid Reza Tizhoosh, PhD, is a Professor in the Department of Artificial Intelligence & Informatics at Mayo Clinic. He has extensive expertise in image retrieval systems for digital pathology and developed the Yottixel search engine for large-scale histopathology image archives. His research focuses on content-based image retrieval, self-supervised learning, and AI applications in pathology. He has organized multiple workshops and competitions on AI in medical imaging.
 
-</td>
-<td width="50%" valign="top">
-
-<!-- Empty cell for layout balance -->
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## Stony Brook University
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/joel_saltz.jpg" alt="Dr. Joel Saltz" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Dr. Joel Saltz, MD, PhD](https://bmi.stonybrookmedicine.edu/people/joel_saltz)
+### Dr. Joel Saltz, MD, PhD
 **Cherith Chair of Biomedical Informatics**
 
 Dr. Joel Saltz, MD, PhD, is the Cherith Chair of Biomedical Informatics at Stony Brook University. He is a pioneer in the field of digital pathology and computational analysis of whole slide images. His research spans high-performance computing, machine learning, and biomedical informatics, with a focus on developing methods to extract and analyze features from gigapixel pathology images. He has led numerous large-scale initiatives in computational pathology and biomedical data science.
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/jakub_kaczmarzyk.jpg" alt="Jakub Kaczmarzyk" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Jakub Kaczmarzyk](https://kaczmarj.github.io/)
+### Jakub Kaczmarzyk
 **MD-PhD Student (6th year)**
 
 Jakub Kaczmarzyk is a sixth-year MD-PhD student at Stony Brook University, where he recently completed his PhD in Biomedical Informatics. His research focuses on computational pathology, with an emphasis on explainable AI and clinical prognostics. He develops AI methods to extract clinically meaningful insights from histopathology images, with a strong interest in reproducible science and open-source tools. Jakub aims to bridge the gap between algorithmic innovation and clinical practice, with the long-term goal of translating computational advances into real-world patient care.
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## University of North Carolina at Chapel Hill
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/melissa_troester.jpg" alt="Melissa Troester" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Melissa Troester, PhD](https://sph.unc.edu/adv_profile/melissa-troester-phd/)
+### Melissa Troester, PhD
 **Professor of Epidemiology and Pathology**
 
 Melissa Troester, PhD, is Professor of Epidemiology and Pathology at University of North Carolina at Chapel Hill. Her research focuses on integrating, molecular, pathology, and clinical data to optimize breast cancer outcomes.
 
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<img src="images/organizers/katherine_hoadley.jpg" alt="Katherine Hoadley" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-</div>
-
-### [Katherine Hoadley, PhD](https://www.med.unc.edu/genetics/directory/katie-hoadley/)
+### Katherine Hoadley, PhD
 **Associate Professor of Genetics**  
 *Computational Medicine Program*
 
 Katherine Hoadley, PhD, is an Associate Professor of Genetics and a member of Computational Medicine Program at the University of North Carolina at Chapel Hill. Her research focuses on understanding cancer biology, particularly breast cancer, through gene expression analyses and integrative genomic approaches.
-
-</td>
-</tr>
-</table>
-
----
-
-### Setup Instructions for Photos
-
-To add organizer photos to your website:
-
-1. **Create folder structure** in your GitHub repository:
-   ```
-   your-repo/
-   ├── images/
-   │   └── organizers/
-   │       ├── neeraj_kumar.jpg
-   │       ├── chad_vanderbilt.jpg
-   │       ├── ruchika_verma.jpg
-   │       └── [other organizer photos]
-   ```
-
-2. **Photo specifications**:
-   - **Format**: JPG or PNG
-   - **Size**: 300x300 pixels minimum (square aspect ratio)
-   - **File naming**: Use lowercase, underscores instead of spaces
-   - **File size**: Keep under 500KB for fast loading
 
 ---
 
