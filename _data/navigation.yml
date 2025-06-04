@@ -2,7 +2,10 @@
   link: /
 - name: About
   link: /about/
-- name: Contact
-  link: /contact/
+- name: Registration
+  link: /registration/
 - name: Organizers
   link: /organizers/
+- name: Contact
+  link: /contact/
+
