@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: SSL4PFM
-description: Self-Supervised Learning for Pathology Foundation Models
+title: SLC-PFM
+description: Self-supervised Learning for Pathology Foundation Models
 repository: neerajkumarvaid/ssl4pfm
 baseurl: ""
 url: "https://deeplearningpathology.org"
