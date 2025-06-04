@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to SSL4PFM
+# Welcome to SLC-PFM
 
-This is the home page for the SSL4PFM project.
+This is the home page for the SLC-PFM project.
