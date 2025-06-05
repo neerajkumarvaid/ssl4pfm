@@ -89,12 +89,12 @@ Dr. Hamid Reza Tizhoosh, PhD, is a Professor in the Department of Artificial Int
 ### Dr. Joel Saltz, MD, PhD
 **Cherith Chair of Biomedical Informatics**
 
-Dr. Joel Saltz, MD, PhD, is the Cherith Chair of Biomedical Informatics at Stony Brook University. He is a pioneer in the field of digital pathology and computational analysis of whole slide images. His research spans high-performance computing, machine learning, and biomedical informatics, with a focus on developing methods to extract and analyze features from gigapixel pathology images. He has led numerous large-scale initiatives in computational pathology and biomedical data science.
+Dr. Joel Saltz, MD, PhD, is the Cherith Chair of Biomedical Informatics at State University of New York at Stony Brook. He is a pioneer in the field of digital pathology and computational analysis of whole slide images. His research spans high-performance computing, machine learning, and biomedical informatics, with a focus on developing methods to extract and analyze features from gigapixel pathology images. He has led numerous large-scale initiatives in computational pathology and biomedical data science.
 
 ### Jakub Kaczmarzyk
 **MD-PhD Student (6th year)**
 
-Jakub Kaczmarzyk is a sixth-year MD-PhD student at Stony Brook University, where he recently completed his PhD in Biomedical Informatics. His research focuses on computational pathology, with an emphasis on explainable AI and clinical prognostics. He develops AI methods to extract clinically meaningful insights from histopathology images, with a strong interest in reproducible science and open-source tools. Jakub aims to bridge the gap between algorithmic innovation and clinical practice, with the long-term goal of translating computational advances into real-world patient care.
+Jakub Kaczmarzyk is a sixth-year MD-PhD student at State University of New York at Stony Brook, where he recently completed his PhD in Biomedical Informatics. His research focuses on computational pathology, with an emphasis on explainable AI and clinical prognostics. He develops AI methods to extract clinically meaningful insights from histopathology images, with a strong interest in reproducible science and open-source tools. Jakub aims to bridge the gap between algorithmic innovation and clinical practice, with the long-term goal of translating computational advances into real-world patient care.
 
 ---
 
