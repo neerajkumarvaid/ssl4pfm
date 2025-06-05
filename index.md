@@ -12,6 +12,29 @@ Welcome to the SLC-PFM Competition - an unprecedented platform for advancing the
 - **Focus on Technical Innovation**: Participants can concentrate on novel architectures and learning approaches without data curation barriers
 - **Global Collaboration**: Evaluation conducted by leading cancer centers including top-ranked institutions in the USA and globally
 
+## 🎯 Your Challenge: Build the Next Generation of Pathology Foundation Models
+
+**This competition is specifically designed for developing novel self-supervised learning algorithms and architectures to create powerful pathology foundation models.**
+
+### What You'll Develop:
+- **Self-supervised learning approaches** that can learn meaningful representations from pathology images without requiring labeled data
+- **Novel neural network architectures** optimized for the unique characteristics of histopathology data
+- **Foundation models** that can serve as powerful feature extractors for diverse downstream clinical tasks
+
+### The Innovation Opportunity:
+SLC-PFM focuses on **pre-training methodologies** - giving you the freedom to explore cutting-edge self-supervised techniques like:
+
+- **Contrastive Learning**: SimCLR, MoCo, SwAV, VICReg
+- **Self-Distillation**: DINO, DINOv2, BYOL
+- **Masked Image Modeling**: MAE, iBOT, BEiT
+- **Multi-Scale Learning**: Hierarchical representations across 20× and 40× magnifications
+- **Pathology-Specific Innovations**: Novel augmentations, rotation invariance, cross-tile relationship modeling
+- **Transformer Architectures**: Vision Transformers (ViTs) optimized for gigapixel pathology images
+
+**No labels. No supervision. Pure algorithmic innovation.**
+
+Design self-supervised learning frameworks that extract clinically meaningful patterns from 300M pathology images to create foundation models that will advance cancer diagnosis worldwide.
+
 ## Competition Phases
 
 ### Phase 1: Foundation Model Development (June - October 2025)
