@@ -1,6 +1,12 @@
+---
+layout: default
+title: Phase 1
+permalink: /phase1/
+---
+
 # Phase 1: Foundation Model Development
 
-**Duration**: May - October 2025  
+**Duration**: June - October 2025  
 **Objective**: Develop self-supervised learning approaches for pathology foundation models
 
 ## MSK-SLCPFM Dataset
@@ -85,7 +91,7 @@ The dataset spans all 39 cancer types with the following distribution:
 ### Development Environment
 - Participants use their own computational infrastructure
 - Self-supervised learning approaches without outcome labels
-- Focus on developing generalizable foundation models
+- Focus on developing generalizable pathology foundation models
 
 ### Submission Requirements
 By **October 15, 2025**, teams must provide:
@@ -95,21 +101,13 @@ By **October 15, 2025**, teams must provide:
 3. **Methodology Documentation**: LaTeX-formatted technical description
 
 ### Performance Requirements
-- Models must be optimized for single A100 GPU inference
+- Models must be optimized for single GPU inference using less than equal to 80GB of GPU memory
 - Efficient feature extraction for downstream task evaluation
 
 ## Data Distribution Options
+- Secure link will be provided to access provided after registration
 
-### Physical Drives
-- Available for teams with limited bandwidth internet
-- Hard drives shipped directly to participating institutions
-- Distribution costs covered by MSK
-
-### FTP Server
-- High-speed download option for teams with sufficient bandwidth
-- Secure file transfer protocol access provided after registration
-
-### Starting Kit (Available May 2025)
+### Starting Kit (Available June 2025 only to registered participants)
 The comprehensive Starting Kit will include:
 1. **Phase 1 Dataset**: Complete MSK-SLCPFM collection
 2. **Data Loading Scripts**: Python code for loading, inspecting, and preprocessing WSI and tile data
@@ -137,14 +135,6 @@ The MSK-SLCPFM dataset presents unique challenges compared to natural image data
 - Glands appear larger with more cellular details at 40× vs 20× resolution
 - Important pathological features may only be visible at specific magnifications
 
-## Tile Sampling Algorithm
-
-Each WSI contributes approximately 6,000 randomly sampled tiles using a standardized algorithm:
-
-1. **Tissue Mask Generation**: Create low-resolution thumbnail and identify tissue regions using Otsu thresholding
-2. **Coordinate Identification**: Map tissue boundaries to full-resolution coordinates
-3. **Tile Validation**: Discard tiles with >90% white space (insufficient tissue content)
-4. **Manifest Output**: Generate CSV file with valid tile coordinates
 
 ## Data Ethics and Privacy
 
