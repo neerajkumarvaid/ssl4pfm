@@ -1,7 +1,9 @@
 - name: Home
   link: /
-- name: About
-  link: /about/
+- name: Phase 1
+  link: /phase1/
+- name: Phase 2
+  link: /phase2/
 - name: Registration
   link: /registration/
 - name: Organizers
