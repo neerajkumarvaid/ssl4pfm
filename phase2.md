@@ -24,7 +24,7 @@ The evaluation will be conducted by top-ranked cancer centers:
 
 - **Memorial Sloan Kettering Cancer Center** (Lead Institution)
 - **Icahn School of Medicine at Mount Sinai**  
-- **Stony Brook University & University of North Carolina**
+- **State University of New York at Stony Brook & University of North Carolina**
 - **MD Anderson Cancer Center**
 - **Mayo Clinic**
 
