@@ -1,4 +1,4 @@
-remote_theme: pages-themes/dinky@v0.2.0
+theme: jekyll-theme-cayman
 title: Self-supervised Learning for Cancer Pathology Foundation Models (SLC-PFM)
 description: NeurIPS 2025 Competition Hosted by Memorial Sloan Kettering Cancer Center, New York, NY, USA
 repository: neerajkumarvaid/ssl4pfm
