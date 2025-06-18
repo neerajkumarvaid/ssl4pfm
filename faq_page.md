@@ -1,3 +1,9 @@
+---
+layout: default
+title: FAQs
+permalink: /faqs/
+---
+
 # Frequently Asked Questions (FAQ)
 
 ## General Guidelines
