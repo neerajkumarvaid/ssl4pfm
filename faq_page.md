@@ -16,7 +16,7 @@ This FAQ addresses common questions about participation requirements, data usage
 
 ### Q1: Are participants permitted to fine-tune existing foundation models, or must models be trained entirely from scratch?
 
-**Answer:** Participants are permitted to use publicly available pathology foundation models as starting points for their submissions. However, only foundation models that are publicly accessible and documented in [this foundation models list list](https://docs.google.com/spreadsheets/d/1tlbI5clx74IGOyAcoFQGr10YZ1NSMEzT_INAQzoGvxs/edit?usp=sharing) may be utilized. 
+**Answer:** Participants are permitted to use publicly available pathology foundation models as starting points for their submissions. However, only foundation models that are publicly accessible and documented in [this foundation models list](https://docs.google.com/spreadsheets/d/1tlbI5clx74IGOyAcoFQGr10YZ1NSMEzT_INAQzoGvxs/edit?usp=sharing) may be utilized. 
 
 **Important restrictions:**
 - Private or proprietary pathology foundation models are strictly prohibited
