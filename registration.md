@@ -8,7 +8,7 @@ permalink: /registration/
 
 **Ready to participate in the SLC-PFM Competition?**
 
-## Registration Deadline -- August 15, 2025
+## Registration Deadline - August 15, 2025
 
 ## 🚀 Register Now
 
